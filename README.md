@@ -4,8 +4,6 @@
 
 ## Встановлення
 
-1. Клонуйте репозиторій:
-
    ```bash
    git clone https://github.com/PuchkaAndrian/SportArena.git
 Перейдіть до папки проекту:
