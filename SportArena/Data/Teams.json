@@ -1,0 +1,184 @@
+{
+  "Teams": [
+    {
+      "TeamName": "EvropaGG Gaimin Gladiators",
+      "Players": [
+        {
+          "PlayerName": "DyrachYO",
+          "Role": "Carry",
+          "Age": 22,
+          "Country": "Russia"
+        },
+        {
+          "PlayerName": "Quinn",
+          "Role": "Mid",
+          "Age": 24,
+          "Country": "USA"
+        },
+        {
+          "PlayerName": "Ace",
+          "Role": "Offlane",
+          "Age": 30,
+          "Country": "Denmark"
+        },
+        {
+          "PlayerName": "Seleri",
+          "Role": "Support",
+          "Age": 24,
+          "Country": "Netherlands"
+        },
+        {
+          "PlayerName": "tOfu",
+          "Role": "Support",
+          "Age": 27,
+          "Country": "Germany"
+        }
+      ]
+    },
+    {
+      "TeamName": "SerbiyaTSpirit Team Spirit",
+      "Players": [
+        {
+          "PlayerName": "YatoroGOD",
+          "Role": "Carry",
+          "Age": 20,
+          "Country": "Ukraine",
+          "NextMatch": "today vs NAVI"
+        },
+        {
+          "PlayerName": "Larl",
+          "Role": "Mid",
+          "Age": 22,
+          "Country": "Russia",
+          "NextMatch": "today vs NAVI"
+        },
+        {
+          "PlayerName": "Collapse",
+          "Role": "Offlane",
+          "Age": 21,
+          "Country": "Russia",
+          "NextMatch": "today vs NAVI"
+        },
+        {
+          "PlayerName": "Miposhka",
+          "Role": "Support",
+          "Age": 26,
+          "Country": "Russia",
+          "NextMatch": "today vs NAVI"
+        },
+        {
+          "PlayerName": "Mira",
+          "Role": "Support",
+          "Age": 24,
+          "Country": "Ukraine",
+          "NextMatch": "today vs NAVI"
+        }
+      ]
+    },
+    {
+      "TeamName": "NiderlandyLiquid Team Liquid",
+      "Players": [
+        {
+          "PlayerName": "miCKe",
+          "Role": "Carry",
+          "Age": 24,
+          "Country": "Sweden"
+        },
+        {
+          "PlayerName": "Nisha",
+          "Role": "Mid",
+          "Age": 23,
+          "Country": "Poland"
+        },
+        {
+          "PlayerName": "33",
+          "Role": "Offlane",
+          "Age": 26,
+          "Country": "Israel"
+        },
+        {
+          "PlayerName": "iNSaNiA",
+          "Role": "Support",
+          "Age": 29,
+          "Country": "Sweden"
+        },
+        {
+          "PlayerName": "boxi",
+          "Role": "Support",
+          "Age": 25,
+          "Country": "Sweden"
+        }
+      ]
+    },
+    {
+      "TeamName": "KitayXG Xtreme Gaming",
+      "Players": [
+        {
+          "PlayerName": "Ame",
+          "Role": "Carry",
+          "Age": 26,
+          "Country": "China"
+        },
+        {
+          "PlayerName": "Xm",
+          "Role": "Mid",
+          "Age": 24,
+          "Country": "China"
+        },
+        {
+          "PlayerName": "Xxs",
+          "Role": "Offlane",
+          "Age": 24,
+          "Country": "China"
+        },
+        {
+          "PlayerName": "XinQ",
+          "Role": "Support",
+          "Age": 25,
+          "Country": "China"
+        },
+        {
+          "PlayerName": "Dy",
+          "Role": "Support",
+          "Age": 26,
+          "Country": "China"
+        }
+      ]
+    },
+    {
+      "TeamName": "BB BetBoom",
+      "Players": [
+        {
+          "PlayerName": "Nightfall",
+          "Role": "Carry",
+          "Age": 21,
+          "Country": "Russia"
+        },
+        {
+          "PlayerName": "gpk~",
+          "Role": "Mid",
+          "Age": 22,
+          "Country": "Russia"
+        },
+        {
+          "PlayerName": "MieRo",
+          "Role": "Offlane",
+          "Age": 20,
+          "Country": "Russia"
+        },
+        {
+          "PlayerName": "Save-",
+          "Role": "Support",
+          "Age": 21,
+          "Country": "Moldova"
+        },
+        {
+          "PlayerName": "TORONTOTOKYO",
+          "Role": "Support",
+          "Age":26,
+          "Country": "Russia"
+        }
+      ]
+    }
+  ]
+}
