@@ -8,52 +8,41 @@
 
    ```bash
    git clone https://github.com/PuchkaAndrian/SportArena.git
-   ```
+Перейдіть до папки проекту:
 
-2. Перейдіть до папки проекту:
+bash
+Copy code
+cd SportArena
+Запустіть додаток:
 
-   ```bash
-   cd SportArena
-   ```
+bash
+Copy code
+java SportArena
+Використання
+Додайте новий турнір:
 
-3. Запустіть додаток:
+bash
+Copy code
+java SportArena create-tournament
+Редагуйте інформацію про турнір:
 
-   ```bash
-   python main.py
-   ```
+bash
+Copy code
+java SportArena edit-tournament <tournament_id>
+Перегляньте результати турніру:
 
-## Використання
+bash
+Copy code
+java SportArena view-results <tournament_id>
+Оновіть результати змагань:
 
-- Додайте новий турнір:
-
-  ```bash
-  python main.py create-tournament
-  ```
-
-- Редагуйте інформацію про турнір:
-
-  ```bash
-  python main.py edit-tournament <tournament_id>
-  ```
-
-- Перегляньте результати турніру:
-
-  ```bash
-  python main.py view-results <tournament_id>
-  ```
-
-- Оновіть результати змагань:
-
-  ```bash
-  python main.py update-results <tournament_id>
-  ```
-
-## Внесок
-
+bash
+Copy code
+java SportArena update-results <tournament_id>
+Внесок
 Я відкритий до змін та вдосконалень. Якщо у вас є ідеї чи побажання, будь ласка, створіть pull request або відкрийте новий issue.
 
-## Ліцензія
-
-Цей проект має ліцензію [MIT](LICENSE).
+Ліцензія
+Цей проект має ліцензію MIT.
 
 © 2024 Puchka Andrian. Всі права захищені.
